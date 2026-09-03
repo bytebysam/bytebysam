@@ -1,39 +1,41 @@
 # Hey, I'm Sam
 
-**Computer Science Student | DBMS Learner | Developer**
+> **Computer Science Student | C++ | OOP | DBMS**
 
-I'm currently focused on understanding how software works under the hood,
-with a strong interest in **Database Management Systems, SQL, and backend development**.
-
-## What I'm Learning
-
-- Database Management Systems (DBMS)
-- SQL & Relational Databases
-- ER Models & Relational Algebra
-- Normalization & Functional Dependencies
-- Transactions & Concurrency Control
-- Indexing & Query Optimization
-- Data Structures & Algorithms
-- Java & Object-Oriented Programming
-
-## DBMS Stack
-
-`SQL` `MySQL` 
-
-## Current Focus
-
-Building a stronger foundation in **DBMS and backend systems** while improving
-my problem-solving and programming skills.
-
-## Goals
-
-> Build strong fundamentals.  
-> Write better queries.  
-> Design better databases.  
-> Become a better engineer.
+I'm a Computer Science student focused on building strong programming
+fundamentals and understanding how software works.
 
 ---
 
-### Connect
+## What I Know
 
-[GitHub](https://github.com/bytebysam)
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+
+## Currently Learning
+
+- Java
+- SQL & Database Management Systems
+- Unix / Linux
+- UI/UX Design
+
+## Areas I'm Interested In
+
+- Database Systems
+- Software Development
+- Backend Development
+- Problem Solving
+
+---
+
+### Current Focus
+
+**Building strong fundamentals, learning consistently, and turning what I learn
+into real projects.**
+
+---
+
+### Skills
+
+`C++` `OOP` `DBMS` `Java` `SQL` `Unix` `UI/UX`
