@@ -1,4 +1,4 @@
-# Hey, I'm Sam
+# Hey, I'm Samriddhi
 
 > **Computer Science Student | C++ | OOP | DBMS**
 
@@ -11,7 +11,7 @@ fundamentals and understanding how software works.
 
 - C++
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+- SQL
 
 ## Currently Learning
 
